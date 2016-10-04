@@ -1,12 +1,12 @@
 {
   "name": "webpack-demystified",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Hilary Lewis",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
